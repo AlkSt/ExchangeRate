@@ -1,0 +1,12 @@
+D:\Initium\Новая папка\ExchangeRate\ExchangeRateData\bin\Debug\net5.0\ExchangeRateData.deps.json
+D:\Initium\Новая папка\ExchangeRate\ExchangeRateData\bin\Debug\net5.0\ExchangeRateData.dll
+D:\Initium\Новая папка\ExchangeRate\ExchangeRateData\bin\Debug\net5.0\ref\ExchangeRateData.dll
+D:\Initium\Новая папка\ExchangeRate\ExchangeRateData\bin\Debug\net5.0\ExchangeRateData.pdb
+D:\Initium\Новая папка\ExchangeRate\ExchangeRateData\obj\Debug\net5.0\ExchangeRateData.csproj.AssemblyReference.cache
+D:\Initium\Новая папка\ExchangeRate\ExchangeRateData\obj\Debug\net5.0\ExchangeRateData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Initium\Новая папка\ExchangeRate\ExchangeRateData\obj\Debug\net5.0\ExchangeRateData.AssemblyInfoInputs.cache
+D:\Initium\Новая папка\ExchangeRate\ExchangeRateData\obj\Debug\net5.0\ExchangeRateData.AssemblyInfo.cs
+D:\Initium\Новая папка\ExchangeRate\ExchangeRateData\obj\Debug\net5.0\ExchangeRateData.csproj.CoreCompileInputs.cache
+D:\Initium\Новая папка\ExchangeRate\ExchangeRateData\obj\Debug\net5.0\ExchangeRateData.dll
+D:\Initium\Новая папка\ExchangeRate\ExchangeRateData\obj\Debug\net5.0\ref\ExchangeRateData.dll
+D:\Initium\Новая папка\ExchangeRate\ExchangeRateData\obj\Debug\net5.0\ExchangeRateData.pdb

@@ -1,0 +1,12 @@
+D:\Initium\Новая папка\ExchangeRate\AuthenticationData\bin\Debug\net5.0\AuthenticationData.deps.json
+D:\Initium\Новая папка\ExchangeRate\AuthenticationData\bin\Debug\net5.0\AuthenticationData.dll
+D:\Initium\Новая папка\ExchangeRate\AuthenticationData\bin\Debug\net5.0\ref\AuthenticationData.dll
+D:\Initium\Новая папка\ExchangeRate\AuthenticationData\bin\Debug\net5.0\AuthenticationData.pdb
+D:\Initium\Новая папка\ExchangeRate\AuthenticationData\obj\Debug\net5.0\AuthenticationData.csproj.AssemblyReference.cache
+D:\Initium\Новая папка\ExchangeRate\AuthenticationData\obj\Debug\net5.0\AuthenticationData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Initium\Новая папка\ExchangeRate\AuthenticationData\obj\Debug\net5.0\AuthenticationData.AssemblyInfoInputs.cache
+D:\Initium\Новая папка\ExchangeRate\AuthenticationData\obj\Debug\net5.0\AuthenticationData.AssemblyInfo.cs
+D:\Initium\Новая папка\ExchangeRate\AuthenticationData\obj\Debug\net5.0\AuthenticationData.csproj.CoreCompileInputs.cache
+D:\Initium\Новая папка\ExchangeRate\AuthenticationData\obj\Debug\net5.0\AuthenticationData.dll
+D:\Initium\Новая папка\ExchangeRate\AuthenticationData\obj\Debug\net5.0\ref\AuthenticationData.dll
+D:\Initium\Новая папка\ExchangeRate\AuthenticationData\obj\Debug\net5.0\AuthenticationData.pdb
